@@ -1,0 +1,3 @@
+PWW02,Sunny, +86.7F
+XXX,Unknown,  +0.0F
+XXX,Unknown,  +0.0F
