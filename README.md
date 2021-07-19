@@ -3,7 +3,7 @@ A weather forcast and weather monitoring display program.
 
 Interaction design looks like the following:
 
-![](WeatherBitMaps/src/resources/design.JPG)
+![](WeatherBitMaps/src/resources/design.PNG)
 
 It reads a .for or .obs files and diplay its information to the map. The **absolute path** must be inserted in the text field.
 
